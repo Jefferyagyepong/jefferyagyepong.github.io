@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg917"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="JA.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview919"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.31877111"
+     inkscape:cx="296.45096"
+     inkscape:cy="643.09466"
+     inkscape:window-width="1280"
+     inkscape:window-height="700"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs914">
+    <linearGradient
+       id="linearGradient2883"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop2881" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2883"
+       id="linearGradient2887"
+       gradientUnits="userSpaceOnUse"
+       x1="22.096369"
+       y1="141.29873"
+       x2="185.21822"
+       y2="141.29873" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:124.345px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:#5d1102;stroke-width:4.64449583;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="20.35586"
+       y="185.80307"
+       id="text914"
+       transform="scale(0.98167093,1.0186713)"
+       inkscape:transform-center-x="9.871542"
+       inkscape:transform-center-y="11.205568"><tspan
+         sodipodi:role="line"
+         id="tspan912"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:124.345px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:#5d1102;stroke-width:4.64449583;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="20.35586"
+         y="185.80307">JA</tspan></text>
+  </g>
+</svg>

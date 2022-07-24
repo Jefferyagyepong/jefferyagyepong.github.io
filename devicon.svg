@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="22.883 179.884 471.261 267.427" xmlns="http://www.w3.org/2000/svg">
+  <rect x="133.343" y="168.497" width="206.372" height="218.591" style="fill: rgb(255, 255, 255); stroke-width: 10px; stroke: rgb(0, 0, 0);" transform="matrix(1, 0, 0, 1, 33.395525, -10.765653)" rx="15.58" ry="15.58"/>
+  <rect style="fill: rgb(255, 255, 255); stroke-width: 10px; stroke: rgb(0, 0, 0);" x="136.598" y="174.355" width="196.874" height="20.555" rx="5" ry="5" transform="matrix(1, 0, 0, 1, 33.395525, -10.765653)"/>
+  <ellipse style="fill: rgb(255, 255, 255); stroke-width: 5px; stroke: rgb(0, 0, 0);" cx="160.455" cy="186.062" rx="6.884" ry="7.122" transform="matrix(1, 0, 0, 1, 33.395525, -10.765653)"/>
+  <ellipse style="fill: rgb(255, 255, 255); stroke-width: 5px; stroke: rgb(0, 0, 0);" cx="178.856" cy="184.044" rx="6.884" ry="7.122" transform="matrix(1, 0, 0, 1, 33.395525, -10.765653)"/>
+  <ellipse style="fill: rgb(255, 255, 255); stroke-width: 5px; stroke: rgb(0, 0, 0);" cx="200.259" cy="184.14" rx="6.884" ry="7.122" transform="matrix(1, 0, 0, 1, 33.395525, -10.765653)"/>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 76.7px; stroke: rgb(0, 0, 0); stroke-width: 10px; white-space: pre;" transform="matrix(1, 0, 0, 1, 33.395525, -10.765653)" x="153.553" y="306.324">&lt; / &gt;</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 23.9px;" x="375.363" y="358.774" transform="matrix(1, 0, 0, 1, 33.395525, -10.765653)"> </text>
+</svg>

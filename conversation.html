@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Jeffery Agyepong | start a Conversation</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="author" content="Jeffery Agyepong">
+        <meta name="description" content="Start a conversation with Jeffery on a project idea">
+        <link rel=" shortcut icon" href="/favicon.svg" type="image/png">
+        <link rel="stylesheet" href="/hello.css" type="text/css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+       <link href="https://fonts.googleapis.com/css2?family=Jura:wght@300;400;500;700&display=swap" rel="stylesheet">
+       <link href='https://fonts.googleapis.com/css?family=Graduate' rel='stylesheet'>
+       <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200;300;400&display=swap" rel="stylesheet">
+
+        <!--Add icon library-->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <!--Javascript Code-->
+        <script>
+
+            function validate(){
+                if (document.myForm.Name.value ==""){
+                    alert("Please provide your Name!");
+                    document.myForm.Name.focus() ;
+                    return false;
+                }
+            
+                if (document.myForm.Email.value ==""){
+                    alert("Please provide your email!");
+                    document.myForm.Email.focus() ;
+                    return false;
+            
+            
+                    if (document.myForm.Country.value =="-1"){
+                    alert("Please provide your country!");
+                 return false;
+                    
+              }
+              return true;
+            }
+            
+            function validateEmail(){
+                var emailID =document.myForm.Email.value;
+                atpos = emailID.indexof("@");
+                dotpos = email.lastIndexof(".");
+            
+                if (atpos < 1||(dotpos-atpos < 2)) {
+                    alert("Please enter correct email id")
+                    document.myForm.Email.focus();
+                    return false;
+                }
+                return true;
+                     }
+                    }
+                    </script>
+    </head>
+    <body>
+ <!--Header-->
+
+
+ <header>
+    <a href="/index.html" class="logo"><img src="/jalogo.svg"  height =" 70" alt="JA logo"></a>
+   
+</header>
+
+
+<div class="main">
+
+
+
+<div class="head">
+    <h1>Want to discuss a startup collaboration? I'm most definitely game.</h1>
+
+</div>
+
+
+
+<div class="form-center">
+
+
+
+    <form  action="https://formspree.io/f/xayvlyba"  method="post" name="myForm" onsubmit="return validate()">
+
+
+    <label  class="labels">Name:</label>
+<input type="text" name="Name"/>
+
+
+
+
+
+    <label  class="labels">Email:</label>
+<input type="email" name="Email" placeholder="example@gmail.com" />
+
+ 
+        <label  class="labels">Project Type:</label>
+
+
+<select>
+    <option value="-1"> select Project Type</option>
+ 
+    <option value="">Investor</option>
+    <option value="collaboration">Collaboration</option>
+</select>
+
+
+<label  class="labels">Country:</label>
+
+
+
+<select>
+    <option value="-1">Select your country</option>
+    <option value="1">USA</option>
+    <option value="2">Canada</option>
+    <option value="3">UK</option>
+    <option value="4">Egypt</option>
+    <option value="5">Germany</option>
+    <option value="6">Ghana</option>
+    <option value="7">Nigeria</option>
+
+</select>
+
+
+
+
+
+<label class="labels">Message:</label>
+<textarea name="textArea" maxlength="150" spellcheck="true"></textarea>
+
+
+
+
+<input type="submit" value="submit"/>
+
+
+
+</form>
+
+
+
+
+</div>
+</div>
+
+
+
+
+    
+    </body>
+
+</html>
